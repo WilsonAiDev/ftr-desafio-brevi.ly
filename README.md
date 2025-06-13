@@ -10,7 +10,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto é um desafio de back-end proposto no curso de Pós Graduação em tecnologia **Tech Developer 360** da **FTR (Future Tech Revolution)**.
+Este projeto é um desafio de back-end proposto no curso de Pós Graduação em tecnologia **Tech Developer 360** da **FTR (Faculdade Tecnologia Rocketseat)**.
 
 O objetivo é construir uma API RESTful para um serviço de encurtamento de URLs, seguindo os requisitos e a stack de tecnologia especificados. A aplicação permitirá criar, gerenciar, redirecionar e obter métricas de links encurtados.
 

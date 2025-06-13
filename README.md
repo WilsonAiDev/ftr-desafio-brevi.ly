@@ -44,9 +44,7 @@ Este projeto foi desenvolvido utilizando a seguinte stack de tecnologia:
 - **Docker**: Plataforma de containerização utilizada para criar um ambiente de desenvolvimento e produção consistente e isolado.
 - **Cloudflare R2**: Serviço de armazenamento de objetos (compatível com S3) utilizado como CDN para hospedar os arquivos CSV exportados.
 
-## ⚙️ Como Executar o Projeto
-
-### Pré-requisitos
+## ⚙️ Pré-requisitos
 
 Para rodar o projeto é necessário ter instalado em sua máquina as seguintes ferramentas:
 
